@@ -1,5 +1,5 @@
 # PokemonUltimates
 Made by JordanTheOWner
 
-# THIS IS THE GITHUB REPO, MEANING YOU CANNOT PLAY!
-to play go to "
+A fun pokemon game i made because my school blocks online emulators
+LMAO
